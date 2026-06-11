@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -25,9 +25,7 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I'm a fifth year M.S. student in the Computer Science Department at Carnegie Mellon University, advised by Jan Hoffmann. My 
-research is on automated resource analysis, and I'm currently contributing to Resource Aware ML (RaML) 2, successor to 
-RaML. 
+I'm a fifth year M.S. student in the Computer Science Department at Carnegie Mellon University, advised by [Jan Hoffmann](https://www.cs.cmu.edu/~janh/). My research is on automated resource analysis, and I'm currently contributing to Resource Aware ML (RaML) 2, successor to [RaML](https://www.raml.co/). 
 
 Before my M.S., I obtained my B.S. from CMU in 2026. 
 
