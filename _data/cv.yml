@@ -19,7 +19,7 @@ cv:
           - Concentration in Principles of Programming Languages.
           - University Honors and School of Computer Science College Honors.
 
-    Research Experience:
+    Experience:
       - title: Fifth Year M.S. Research
         advisor: Jan Hoffmann
         date: May 2026 - May 2027
@@ -58,11 +58,3 @@ cv:
             date: Fall 2024
           - course: Principles of Imperative Computation (15-122)
             date: Summer 2023, Fall 2023
-
-    Work Experience:
-      - company: Ernst and Young LLC
-        location: Mumbai, India
-        position: Software Engineer
-        date: May 2024 - August 2024
-        highlights:
-          - Implemented & evaluated a retrieval augmented generation pipeline with a novel knowledge-graph construction method.
