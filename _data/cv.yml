@@ -6,7 +6,7 @@ cv:
   phone: "412.726.5932"
   
   sections:
-    education:
+    Education:
       - institution: Carnegie Mellon University School of Computer Science
         degree: MSc in Computer Science
         location: Pittsburgh, PA
@@ -19,7 +19,7 @@ cv:
           - Concentration in Principles of Programming Languages.
           - University Honors and School of Computer Science College Honors.
 
-    research_experience:
+    Research Experience:
       - title: Fifth Year M.S. Research
         advisor: Jan Hoffmann
         date: May 2026 - May 2027
@@ -33,13 +33,13 @@ cv:
         date: December 2023 - May 2024
         description: Prototyped a solution to the absence of co-inductive types (e.g., infinite streams) in the Lean 4 theorem prover.
 
-    publications:
+    Publications:
       - title: Implementing Hybrid Resource Analysis in Resource Aware ML 2
         date: June 2026
         highlights:
           - To be presented at the PLDI 2026 Student Research Competition.
 
-    projects:
+    Projects:
       - name: Resource-aware Programming Languages (15-714)
         date: Fall 2025
         highlights:
@@ -49,7 +49,7 @@ cv:
         highlights:
           - Wrote an optimizing compiler targeting X86-64 for C0, a safe subset of C, in Rust.
 
-    teaching_assistantships:
+    Teaching Assistantships:
       - context: Each TA role below involves designing and grading homework and exams, responding to student questions in the class forum and during weekly in-person office hours, and designing and teaching recitations and exam reviews.
         roles:
           - course: Foundations of Programming Languages (15-312)
@@ -59,7 +59,7 @@ cv:
           - course: Principles of Imperative Computation (15-122)
             date: Summer 2023, Fall 2023
 
-    work_experience:
+    Work Experience:
       - company: Ernst and Young LLC
         location: Mumbai, India
         position: Software Engineer
