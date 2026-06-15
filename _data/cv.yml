@@ -1,60 +1,54 @@
-# Render CV Format Configuration
 cv:
   name: Arnav Sabharwal
-  location: Pittsburgh, PA
   email: arnavsab@cs.cmu.edu
-  phone: "412.726.5932"
-  
+  location: Pittsburgh, PA
+
+  social_networks:
+    - network: GitHub
+      username: Arnav-99
+
   sections:
     Education:
-      - institution: Carnegie Mellon University School of Computer Science
-        degree: MSc in Computer Science
+      - institution: Carnegie Mellon University
         location: Pittsburgh, PA
-        date: May 2027
-      - institution: Carnegie Mellon University School of Computer Science
-        degree: BSc in Computer Science
-        location: Pittsburgh, PA
-        date: May 2026
+        area: Computer Science
+        studyType: M.S.
+        start_date: 2026-05
+        end_date: 2027-05
         highlights:
-          - Concentration in Principles of Programming Languages.
-          - University Honors and School of Computer Science College Honors.
+          - Enabling the analysis of memoized functions in Resource Aware ML 2, a tool for statically bounding 
+            the cost of ML programs.
+
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA
+        area: Computer Science
+        studyType: B.S.
+        start_date: 2022-08
+        end_date: 2026-05
+        highlights:
+          - University Honors 
+          - SCS College Honors. Honors thesis was on implementing hybrid resource analysis in RaML 2. 
 
     Experience:
-      - title: Fifth Year M.S. Research
-        advisor: Jan Hoffmann
-        date: May 2026 - May 2027
-        description: Enabling analysis of memoized functions in Resource Aware ML 2, a tool for statically bounding the cost of ML programs.
-      - title: Summer Research + Undergraduate Honors Research Thesis
-        advisor: Prof. Jan Hoffmann
-        date: May 2025 - May 2026
-        description: Implementing hybrid resource analysis in Resource Aware ML 2.
-      - title: Independent Study
-        advisor: Prof. Jeremy Avigad
-        date: December 2023 - May 2024
-        description: Prototyped a solution to the absence of co-inductive types (e.g., infinite streams) in the Lean 4 theorem prover.
+      - company: Ernst and Young LLC
+        position: Software Engineer
+        location: Mumbai, India
+        start_date: 2024-05
+        end_date: 2024-08
+        summary: Implemented & evaluated a retrieval augmented generation pipeline with a novel knowledge-graph construction method. 
 
-    Publications:
-      - title: Implementing Hybrid Resource Analysis in Resource Aware ML 2
-        date: June 2026
-        highlights:
-          - To be presented at the PLDI 2026 Student Research Competition.
+    Languages:
+      - name: English
+        summary: "Fluent"
+
+      - name: Hindi
+        summary: "Native speaker"
 
     Projects:
-      - name: Resource-aware Programming Languages (15-714)
-        date: Fall 2025
+      - name: Resource Aware ML 
+        summary: Implementing type-based static resource analysis for ML-style programming languages. 
         highlights:
-          - Mechanized an important property of LFPL, a language that only admits polynomial time computations, in Lean 4.
-      - name: Compiler Design (15-411)
-        date: Spring 2025
-        highlights:
-          - Wrote an optimizing compiler targeting X86-64 for C0, a safe subset of C, in Rust.
-
-    Teaching Assistantships:
-      - context: Each TA role below involves designing and grading homework and exams, responding to student questions in the class forum and during weekly in-person office hours, and designing and teaching recitations and exam reviews.
-        roles:
-          - course: Foundations of Programming Languages (15-312)
-            date: Fall 2025
-          - course: Parallel and Sequential Data Structures and Algorithms (15-210)
-            date: Fall 2024
-          - course: Principles of Imperative Computation (15-122)
-            date: Summer 2023, Fall 2023
+          - Integration of data-driven analysis to tightly analyze programs involving logarithmic complexity. 
+          - Enabling the analysis of memoized functions as polynomial time programs.
+        start_date: 2025-05
+    
