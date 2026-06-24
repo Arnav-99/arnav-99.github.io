@@ -35,4 +35,18 @@ cv:
 
       - name: Hindi
         summary: "Native speaker"
+
+    Projects:
+      - name: Independent Study in S24
+        summary: Prototyped a method of encoding co-inductive types in Lean as quotients of polynomial functors
+        start_date: 2024-01
+        end_date: 2024-05
+    
+    Experience:
+      - company: Ernst and Young LLC
+        position: Software Engineer
+        location: Mumbai, India
+        start_date: 2024-05
+        end_date: 2024-08
+        summary: Implemented & evaluated a retrieval augmented generation pipeline with a novel knowledge-graph construction method.
     
