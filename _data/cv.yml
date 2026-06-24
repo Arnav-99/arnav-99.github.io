@@ -27,15 +27,7 @@ cv:
         end_date: 2026-05
         highlights:
           - University Honors 
-          - SCS College Honors. Honors thesis was on implementing hybrid resource analysis in RaML 2. 
-
-    Experience:
-      - company: Ernst and Young LLC
-        position: Software Engineer
-        location: Mumbai, India
-        start_date: 2024-05
-        end_date: 2024-08
-        summary: Implemented & evaluated a retrieval augmented generation pipeline with a novel knowledge-graph construction method. 
+          - SCS College Honors. Honors thesis was on implementing hybrid resource analysis in RaML 2.  
 
     Languages:
       - name: English
@@ -43,12 +35,4 @@ cv:
 
       - name: Hindi
         summary: "Native speaker"
-
-    Projects:
-      - name: Resource Aware ML 
-        summary: Implementing type-based static resource analysis for ML-style programming languages. 
-        highlights:
-          - Integration of data-driven analysis to tightly analyze programs involving logarithmic complexity. 
-          - Enabling the analysis of memoized functions as polynomial time programs.
-        start_date: 2025-05
     
